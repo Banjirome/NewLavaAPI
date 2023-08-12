@@ -1,5 +1,6 @@
 # NewLavaAPI ducumentation
 ## Начало
+`pip install NewLavaAPI`
 Для использования библиотеки вам необходимо создать экземпеляр LavaAPI с указанием api_key и shop_id вашего магазина.
 ```
 api_key = '****************************************'
