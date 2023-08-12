@@ -19,7 +19,7 @@ api = NewLavaAPI(api_key, shopid)
 
 ## Пример
 ```
-import NewLavaAPI
+from NewLavaAPI.NewLavaAPI import NewLavaAPI
 import random
 
 api_key = '****************************************'
