@@ -38,3 +38,6 @@ else:
   print(f"Счет не оплачен")
 
 ```
+
+## Связь
+Писать насчет багов и предложений: banjiro_me@cyclonesoftware.space
